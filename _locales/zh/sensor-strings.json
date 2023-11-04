@@ -1,0 +1,9 @@
+{
+	"rgbultrasonic.RGBMode.rgb|block":"彩灯模式",
+	"rgbultrasonic.RGBMode.breathing|block":"呼吸灯模式",
+	"rgbultrasonic.RGBNum.left|block":"左边",
+	"rgbultrasonic.RGBNum.right|block":"右边",
+	"rgbultrasonic.RGBNum.all|block":"全部",
+	"rgbultrasonic.SETRGB|block":"设置LED|%mode |%index 颜色|%r|%g|%b|引脚(P19:SCL,P20:SDA)",
+	"rgbultrasonic.GETDISTANCE|block":"获取发光超声波测距值(mm)引脚(P19:SCL,P20:SDA)"
+}
