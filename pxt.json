@@ -9,7 +9,7 @@
     "files": [
         "README.md",
         "main.ts",
-        "_locales/zh/sensor-strings.json"
+        "_locales/zh/rgbultrasonic-strings.json"
     ],
     "testFiles": [
         "test.ts"
