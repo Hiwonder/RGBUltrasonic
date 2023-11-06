@@ -1,4 +1,4 @@
-# NexBit
+# RGBUltrasonic
 
 Extension for Hiwonder RGBUltrasonic
 
